@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><highscores>
+  <highscore>
+    <score>100</score>
+    <name>Test</name>
+    <time>2017-05-04 13:13:00</time>
+  </highscore>
+  <highscore>
+    <score>4</score>
+    <name>Daniel</name>
+    <time>2017-05-06 10:10:00</time>
+  </highscore>
+<highscore><name>Sherloser</name><score>3645</score><time>2017-06-19 22:38:58</time></highscore><highscore><name>Sherwin</name><score>3648</score><time>2017-06-19 22:41:00</time></highscore><highscore><name>player1</name><score>3644</score><time>2017-06-19 22:58:52</time></highscore><highscore><name>hellooo</name><score>3646</score><time>2017-06-19 23:00:30</time></highscore></highscores>
